@@ -4,5 +4,5 @@ SELECT
 FROM
 	employee
 WHERE
-	l_name_kana LIKE 'ÉA%'
+	l_name_kana LIKE '„Ç¢%'
 ;
