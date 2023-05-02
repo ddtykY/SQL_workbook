@@ -3,5 +3,5 @@ SELECT
 FROM
 	books
 WHERE
-	publish LIKE '%ŽÐ'
+	publish LIKE '%ç¤¾'
 ;
