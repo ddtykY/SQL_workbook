@@ -3,5 +3,5 @@ SELECT
 FROM
 	quest
 WHERE
-	name NOT LIKE '%éq'
+	name NOT LIKE '%Â≠ê'
 ;
