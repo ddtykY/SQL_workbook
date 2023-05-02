@@ -1,0 +1,8 @@
+SELECT
+	publish AS èoî≈é–,
+	AVG(price) AS âøäiïΩãœ
+FROM
+	books
+GROUP BY
+	publish
+;
