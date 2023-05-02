@@ -3,5 +3,5 @@ SELECT
 FROM
 	author
 WHERE
-	name LIKE 'ŽR“c%'
+	name LIKE 'å±±ç”°%'
 ;
