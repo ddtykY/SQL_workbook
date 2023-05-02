@@ -1,23 +1,23 @@
 +--------+--------+----------------------+
 | l_name | f_name | email                |
 +--------+--------+----------------------+
-| ˆäã   | ˆê˜Y   | inoue@wings.msn.to   |
-| ãŒ´   | Kˆê   | uehara@wings.msn.to  |
-| ]–{   | ‘     | emoto@wings.msn.to   |
-| ‰Í‡   | ‘×¡   | kawai@wings.msn.to   |
-| –Ø‰º   | ˆê÷   | kino@wings.msn.to    |
-| ‹v•Û“c | ç     | kubota@wings.msn.to  |
-| ™‹Ê   | ‹B     | kodama@wings.msn.to  |
-| âŒû   | x     | saka@examples.com    |
-| ˆäã   | ˆê˜Y   | shimi@wings.msn.to   |
-| –îŒû   | ˆŸ—R”ü | yaguchi@wings.msn.to |
-| —L–Ø   | ää»   | yuki@wings.msn.to    |
-| ‹g‰ª   | —y     | yoshi@examples.com   |
-| ¼–{   | ””ü   | matsu@wings.msn.to   |
-| “ì     | ¹Œb   | minami@wings.msn.to  |
-| ‘ºˆä   | ²’mq | murai@wings.msn.to   |
-| X–{   | ŠG—¢   | morimo@examples.com  |
-| ¼“‡   | •¶q   | nishi@wings.msn.to   |
-| ªŠİ   | —Tq   | negi@wings.msn.to    |
+| äº•ä¸Š   | ä¸€éƒ   | inoue@wings.msn.to   |
+| ä¸ŠåŸ   | å¹¸ä¸€   | uehara@wings.msn.to  |
+| æ±Ÿæœ¬   | è¡     | emoto@wings.msn.to   |
+| æ²³åˆ   | æ³°æ²»   | kawai@wings.msn.to   |
+| æœ¨ä¸‹   | ä¸€æ¨¹   | kino@wings.msn.to    |
+| ä¹…ä¿ç”° | å®ˆ     | kubota@wings.msn.to  |
+| å…ç‰   | æ¯…     | kodama@wings.msn.to  |
+| å‚å£   | é§¿     | saka@examples.com    |
+| äº•ä¸Š   | ä¸€éƒ   | shimi@wings.msn.to   |
+| çŸ¢å£   | äºœç”±ç¾ | yaguchi@wings.msn.to |
+| æœ‰æœ¨   | èŒ‰è‰   | yuki@wings.msn.to    |
+| å‰å²¡   | é¥     | yoshi@examples.com   |
+| æ¾æœ¬   | åšç¾   | matsu@wings.msn.to   |
+| å—     | æ²™æµ   | minami@wings.msn.to  |
+| æ‘äº•   | ä½çŸ¥å­ | murai@wings.msn.to   |
+| æ£®æœ¬   | çµµé‡Œ   | morimo@examples.com  |
+| è¥¿å³¶   | æ–‡å­   | nishi@wings.msn.to   |
+| æ ¹å²¸   | è£•å­   | negi@wings.msn.to    |
 +--------+--------+----------------------+
 18 rows in set (0.000 sec)
