@@ -4,5 +4,5 @@ SELECT
 FROM
 	quest
 WHERE
-	age > 20
+	age >= 20
 ;
