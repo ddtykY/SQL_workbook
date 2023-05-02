@@ -5,5 +5,5 @@ SELECT
 FROM
 	books
 WHERE
-	publish IN ('“úŒoBP','ãÄ‰jŽÐ')
+	publish IN ('æ—¥çµŒBP','ç¿”æ³³ç¤¾')
 ;
