@@ -5,5 +5,5 @@ SELECT
 FROM
 	books
 WHERE
-	title LIKE 'SQL_'
+	title LIKE 'SQL__'
 ;
