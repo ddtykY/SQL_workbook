@@ -5,7 +5,7 @@ SELECT
 FROM
 	usr
 WHERE
-	prefecture IN ('“Œ‹“s','ç—tŒ§','_“ŞìŒ§')
+	prefecture IN ('æ±äº¬éƒ½','åƒè‘‰çœŒ','ç¥å¥ˆå·çœŒ')
 ORDER BY
 	l_name_kana ASC,
 	f_name_kana ASC
