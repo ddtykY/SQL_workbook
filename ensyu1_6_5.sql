@@ -4,7 +4,7 @@ SELECT
 FROM
 	books
 WHERE
-		publish IN ('秀和システム','日経BP')
+		publish IN ('遘蜥後す繧ｹ繝�繝','譌･邨沓P')
 	AND
 		price < 3000
 ;
