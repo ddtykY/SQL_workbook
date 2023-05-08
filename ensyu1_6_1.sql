@@ -3,7 +3,7 @@ SELECT
 FROM
 	quest
 WHERE
-		sex = 'èó'
+		sex = 'Â•≥'
 	AND
 		age BETWEEN 20 AND 29
 ;
