@@ -3,7 +3,7 @@ SELECT
 FROM
 	employee
 WHERE
-		l_name = 'ŽR“c'
+		l_name = 'å±±ç”°'
 	AND
-		f_name = '“Þ”ü'
+		f_name = 'å¥ˆç¾Ž'
 ;
