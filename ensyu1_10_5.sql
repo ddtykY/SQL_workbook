@@ -1,7 +1,7 @@
 SELECT
 	prefecture,
 	sex,
-	AVG(answer1) AS •]‰¿•½‹Ï
+	AVG(answer1) AS è©•ä¾¡å¹³å‡
 FROM
 	quest
 GROUP BY
