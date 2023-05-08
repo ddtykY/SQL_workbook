@@ -1,6 +1,6 @@
 SELECT
-	p_name AS ¤•i–¼,
-	price AS ‰¿Ši
+	p_name AS å•†å“å,
+	price AS ä¾¡æ ¼
 FROM
 	product
 ORDER BY
