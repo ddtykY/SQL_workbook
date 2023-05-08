@@ -1,6 +1,6 @@
 SELECT
-	prefecture AS “s“¹•{Œ§–¼,
-	COUNT(user_id) AS ƒ†[ƒU[”
+	prefecture AS éƒ½é“åºœçœŒå,
+	COUNT(user_id) AS ãƒ¦ãƒ¼ã‚¶ãƒ¼æ•°
 FROM
 	usr
 GROUP BY
