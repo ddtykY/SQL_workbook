@@ -1,0 +1,9 @@
++---------------------------+---------------+
+| referer                   | COUNT(log_id) |
++---------------------------+---------------+
+| http://wings.msn.to/neko/ |             3 |
+| http://wings.msn.to/saru/ |             1 |
+| http://wings.msn.to/kame/ |             1 |
+| http://wings.msn.to/tori/ |             1 |
++---------------------------+---------------+
+4 rows in set (0.000 sec)
