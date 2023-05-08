@@ -1,6 +1,6 @@
 SELECT
-	prefecture AS “s“¹•{Œ§–¼,
-	AVG(age) AS •½‹Ï”N—î
+	prefecture AS éƒ½é“åºœçœŒå,
+	AVG(age) AS å¹³å‡å¹´é½¢
 FROM
 	quest
 GROUP BY
