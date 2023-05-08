@@ -1,6 +1,6 @@
 SELECT
-	publish AS o”ÅŽÐ,
-	AVG(price) AS ‰¿Ši•½‹Ï
+	publish AS å‡ºç‰ˆç¤¾,
+	AVG(price) AS ä¾¡æ ¼å¹³å‡
 FROM
 	books
 GROUP BY
