@@ -5,7 +5,7 @@ SELECT
 FROM
 	usr
 WHERE
-		prefecture = '“Œ‹“s'
+		prefecture = 'æ±äº¬éƒ½'
 	AND
 		email LIKE '%examples.com'
 ;
