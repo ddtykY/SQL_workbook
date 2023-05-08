@@ -5,5 +5,7 @@ SELECT
 FROM
 	quest
 WHERE
-	age BETWEEN 30 AND 39
+		age >= 30
+	AND
+		age < 40
 ;
