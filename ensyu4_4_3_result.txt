@@ -1,0 +1,23 @@
+変更前
++-----------+--------------+------+-----+---------+-------+
+| Field     | Type         | Null | Key | Default | Extra |
++-----------+--------------+------+-----+---------+-------+
+| author_id | char(5)      | NO   | PRI | NULL    |       |
+| name      | varchar(30)  | YES  |     | NULL    |       |
+| name_kana | varchar(100) | YES  |     | NULL    |       |
+| birth     | date         | YES  |     | NULL    |       |
++-----------+--------------+------+-----+---------+-------+
+4 rows in set (0.012 sec)
+
+変更後
+Query OK, 0 rows affected (0.018 sec)
+Records: 0  Duplicates: 0  Warnings: 0
++-----------+--------------+------+-----+---------+-------+
+| Field     | Type         | Null | Key | Default | Extra |
++-----------+--------------+------+-----+---------+-------+
+| author_id | char(5)      | NO   | PRI | NULL    |       |
+| name      | varchar(100) | YES  |     |         |       |
+| name_kana | varchar(100) | YES  |     | NULL    |       |
+| birth     | date         | YES  |     | NULL    |       |
++-----------+--------------+------+-----+---------+-------+
+4 rows in set (0.019 sec)
