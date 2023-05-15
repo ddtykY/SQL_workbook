@@ -1,0 +1,40 @@
+変更前
++-------------+--------------+------+-----+---------+-------+
+| Field       | Type         | Null | Key | Default | Extra |
++-------------+--------------+------+-----+---------+-------+
+| s_id        | char(7)      | NO   | PRI |         |       |
+| l_name      | varchar(20)  | YES  |     | NULL    |       |
+| f_name      | varchar(20)  | YES  |     | NULL    |       |
+| l_name_kana | varchar(100) | YES  |     | NULL    |       |
+| f_name_kana | varchar(100) | YES  |     | NULL    |       |
+| sex         | smallint(6)  | YES  |     | NULL    |       |
+| class       | varchar(20)  | YES  |     | NULL    |       |
+| depart_id   | char(3)      | YES  |     | NULL    |       |
+| email       | varchar(255) | NO   |     | NULL    |       |
+| b_id        | char(7)      | YES  |     | NULL    |       |
+| last_update | date         | YES  |     | NULL    |       |
+| retired     | smallint(6)  | YES  |     | NULL    |       |
++-------------+--------------+------+-----+---------+-------+
+12 rows in set (0.010 sec)
+
+
+変更後
+Query OK, 0 rows affected (0.031 sec)
+Records: 0  Duplicates: 0  Warnings: 0
++-------------+--------------+------+-----+---------+-------+
+| Field       | Type         | Null | Key | Default | Extra |
++-------------+--------------+------+-----+---------+-------+
+| s_id        | char(7)      | NO   | PRI |         |       |
+| l_name      | varchar(50)  | NO   |     | NULL    |       |
+| f_name      | varchar(50)  | NO   |     | NULL    |       |
+| l_name_kana | varchar(100) | YES  |     | NULL    |       |
+| f_name_kana | varchar(100) | YES  |     | NULL    |       |
+| sex         | smallint(6)  | YES  |     | NULL    |       |
+| class       | varchar(20)  | YES  |     | NULL    |       |
+| depart_id   | char(3)      | YES  |     | NULL    |       |
+| email       | varchar(255) | NO   |     | NULL    |       |
+| b_id        | char(7)      | YES  |     | NULL    |       |
+| last_update | date         | YES  |     | NULL    |       |
+| retired     | smallint(6)  | YES  |     | NULL    |       |
++-------------+--------------+------+-----+---------+-------+
+12 rows in set (0.012 sec)
