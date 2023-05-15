@@ -1,0 +1,11 @@
+Query OK, 0 rows affected (0.022 sec)
+
++-----------+--------------+------+-----+---------+-------+
+| Field     | Type         | Null | Key | Default | Extra |
++-----------+--------------+------+-----+---------+-------+
+| author_id | char(5)      | NO   | PRI | NULL    |       |
+| name      | varchar(30)  | YES  |     | NULL    |       |
+| name_kana | varchar(100) | YES  |     | NULL    |       |
+| birth     | date         | YES  |     | NULL    |       |
++-----------+--------------+------+-----+---------+-------+
+4 rows in set (0.032 sec)
